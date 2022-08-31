@@ -11,8 +11,9 @@ Welcome to the course page of the Programming course! This course is a continuat
 This course page will act as the main reference for the course and contains practice assignments to make you familiar with the topics that are studied. In this course, there is a strong focus on assignments that you hand in via Codegrade that you can access via Canvas. Completing these practice assignments will help you to become familiar with the language and train you on how to tackle problems by means of computer programs.
 
 ## Test mathematics
-Let's write down a formula and see how it is rendered.
-$a^2 + b^2 = c^2$
+Let's write down a formula and see how it is rendered: $a^2 + b^2 = c^2$
+Let's also try a more complicated formula.
+$$\int_0^1 f(x) = F(1) - F(0).$$
 
 ## Software
 The software that we recommend you to use for this course for programming is called `IntelliJ IDEA`. This is a so-called Integrated Development Environment (IDE) for writing Java code. IntelliJ is widely used throughout academia and industry and thus provideS you a good basis for any future programming that you do. Instructions on how to set-up IntelliJ on your own PC are given [on this page](./installation). On university PC's, it will already be installed for use. Note that you are also allowed to use other programs to write Java code, such as Eclipse (which we used for this course last  year) or Netbeans. Our aim is to use IntelliJ for our video's and demonstration during the question hours.
