@@ -1,7 +1,7 @@
 const courseSettings = {
   language: "en",
   name: "Programming",
-  siteUrl: "https://econometricinstitute.github.io/feb22012-programming-website/",
+  siteUrl: "https://twan-dollevoet.github.io/website/",
   subtitle: "A course on Object Oriented Programming in Java",
   slug: "feb22012",
   tmcCourse: "feb22012",
