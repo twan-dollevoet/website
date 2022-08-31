@@ -10,6 +10,8 @@ ready: true
 - Understand why Java is an interesting programming language to learn.
 
 - Remember what you have learned in Introduction to Programming.
+    
+- Try to see whether this works.
 
 </text-box>
 
